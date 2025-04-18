@@ -14,7 +14,7 @@ We have tools, datasets, and learning/educational resources. We will briefly des
 | Name         | Description                             |
 |--------------|-----------------------------------------|
 | [Identifier Name Structure Catalogue](https://github.com/SCANL/identifier_name_structure_catalogue)| A catalogue of identifier name structures found in code and their significance to program behavior. This catalogue also covers various perspectives on how research literature characterizes identifier name meaning and behavior. |
-| [Ensemble Tagger](https://github.com/SCANL/ensemble_tagger)| A part-of-speech tagger designed to work on the [specialized phrase structure of identifiers](https://www.sciencedirect.com/science/article/abs/pii/S0164121220301680) (e.g., variable names).|
+| [SCALAR Tagger](https://github.com/SCANL/scanl_tagger)| A part-of-speech tagger designed to work on the [specialized phrase structure of identifiers](https://www.sciencedirect.com/science/article/abs/pii/S0164121220301680) (e.g., variable names).|
 | [IDEAL](https://github.com/SCANL/IDEAL)| An identifier name appraisal and recommendation tool.|
 | [srcML Identifier Getter Tool](https://github.com/SCANL/srcml_identifier_getter_tool)| A tool for collecting samples of identifier names from software systems using srcML. It can help you take statistically sound samples for research on identifier names.|
 | [Project Sunshine](https://github.com/SCANL/ProjectSunshine)| An implementation of the [linguistic anti-patterns](https://doi.org/10.1007/s10664-014-9350-8) and soon-to-be merged with IDEAL to create a framework for identifier name appraisal and recommendation. |
